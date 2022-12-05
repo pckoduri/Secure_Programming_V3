@@ -6,3 +6,6 @@
 2022-12-04 18:37:51 info: Congratulations, your extension "Embold" is now active!
 2022-12-04 18:38:05 info: file:///c%3A/Users/kodur/OneDrive/Documents/COURSES/Secure%20Programming/Secure_Programming_V2/.git/index.lock
 2022-12-04 18:38:05 error: SQLITE_ERROR: no such table: issues
+2022-12-04 18:42:49 info: tempDirectory:c:\Users\kodur\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-04 18:42:49 info: Extraction complete for source: c:\Users\kodur\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\kodur\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-04 18:42:49 info: Congratulations, your extension "Embold" is now active!
